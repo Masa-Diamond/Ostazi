@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923388246178",
+    "project_id": "austazi",
+    "storage_bucket": "austazi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923388246178:android:411086ec35cf2f58b7bffb",
+        "android_client_info": {
+          "package_name": "at.meera.grad_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923388246178-pdu0cbgcuttn0n8egfn15gtbblrr2hst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCga1s1acKkBzYqVsMTZYYwITbaA6pVsDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923388246178-pdu0cbgcuttn0n8egfn15gtbblrr2hst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
